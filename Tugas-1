@@ -1,2 +1,6 @@
 Pengertian Branch
 = Cabang dari repositori utama anda. Di branch, kode yang Anda utak-atik tak akan berefek ke repository utama. Jadi, Anda bisa bebas bereksperimen atau memperbaiki bug di sini.
+
+Pengertian Merge
+= Menggabungkan kode yang sudah diubah pada suatu branch ke repository lainnya. Jadi, setelah Anda bereksperimen dengan kode di branch, Anda bisa langsung 
+  memasukkannya pada repository utama dengan merge.

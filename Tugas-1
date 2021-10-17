@@ -4,3 +4,6 @@ Pengertian Branch
 Pengertian Merge
 = Menggabungkan kode yang sudah diubah pada suatu branch ke repository lainnya. Jadi, setelah Anda bereksperimen dengan kode di branch, Anda bisa langsung 
   memasukkannya pada repository utama dengan merge.
+  
+Pengertian Fork
+= Menyalin repository orang lain ke akun GitHub Anda. Biasanya digunakan untuk bereksperimen pada suatu project yang Anda anggap menarik. 
